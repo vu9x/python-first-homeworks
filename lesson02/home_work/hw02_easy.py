@@ -45,4 +45,3 @@ for f in list_3:
         list_4.append(f * 2)
 
 print(list_4)
-print(1 / 4)
